@@ -1,3 +1,4 @@
 pandas_datareader
 rich
 yahoo_fin
+pyfiglet
