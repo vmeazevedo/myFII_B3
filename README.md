@@ -1,6 +1,6 @@
 
 
-# myFII_B3![b3-bolsa-brasil-balcao](https://user-images.githubusercontent.com/40063504/212784580-9827d726-13c8-48e7-b6f4-530200cbed13.png)
+# myFII_B3
 
 Aplicação de monitoramento de valores de Fundos Imobiliários e ações.
    
