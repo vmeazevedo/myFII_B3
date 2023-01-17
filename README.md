@@ -1,5 +1,5 @@
 # myFII_B3
-Aplicação de monitoramento de valores de Fundos Imobiliários.
+Aplicação de monitoramento de valores de Fundos Imobiliários e ações.
    
 ![Supported Python Versions](https://img.shields.io/pypi/pyversions/rich/10.11.0) [![Twitter Follow](https://img.shields.io/twitter/follow/vmeazevedo.svg?style=social)](https://twitter.com/vmeazevedo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinícius_Azevedo%20-blue)](https://www.linkedin.com/in/vin%C3%ADcius-azevedo-45180ab2/)
 
@@ -27,6 +27,6 @@ pip install -r requirements.txt
    ``
    git clone https://github.com/vmeazevedo/myFII_B3
    ``
-2. Execute o arquivo python ``myFII-Monitor.py``.
+2. Execute o arquivo python ``myTicker-Monitor.py``.
 
 3. A partir desse momento o monitoramento se inicia.
