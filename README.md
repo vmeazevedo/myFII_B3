@@ -1,4 +1,7 @@
-# myFII_B3
+
+
+# myFII_B3![b3-bolsa-brasil-balcao](https://user-images.githubusercontent.com/40063504/212784580-9827d726-13c8-48e7-b6f4-530200cbed13.png)
+
 Aplicação de monitoramento de valores de Fundos Imobiliários e ações.
    
 ![Supported Python Versions](https://img.shields.io/pypi/pyversions/rich/10.11.0) [![Twitter Follow](https://img.shields.io/twitter/follow/vmeazevedo.svg?style=social)](https://twitter.com/vmeazevedo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinícius_Azevedo%20-blue)](https://www.linkedin.com/in/vin%C3%ADcius-azevedo-45180ab2/)
@@ -13,6 +16,10 @@ Você pode realizar doações de qualquer banco para minha chave Pix Itaú: **86
 ## Terminal
 
 ![image](https://user-images.githubusercontent.com/40063504/212444184-4babc593-6e45-4023-9013-978d69b3acc6.png)
+
+#### Release v0.1.0
+![image](https://user-images.githubusercontent.com/40063504/212784642-86c581d3-1165-4c8c-90b4-0818a36458f5.png)
+
 
 ## Requirements
 
